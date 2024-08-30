@@ -1,0 +1,2 @@
+2024-08-30 09:57:05 [restartedMain] INFO  SpringApplication.logStartupProfileInfo - The following 1 profile is active: "dev"
+2024-08-30 09:57:07 [restartedMain] INFO  GatewayRouteConfig.routes - Route config started::
